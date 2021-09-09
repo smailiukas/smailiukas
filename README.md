@@ -29,7 +29,7 @@ class ICodezas {
 const me = new ICodezas();
 me.hello();
 ```
-
+![](https://github.com/DollnKey/snk/raw/output/github-contribution-grid-snake.svg)
 
 <!---
 iCodezas/iCodezas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
