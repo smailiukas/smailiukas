@@ -22,6 +22,8 @@
 class ICodezas {
   constructor() {
     this.name = "RONIS";
+    this.age = 17;
+    this.projects = ["The Hand", "Kabliukas"];
     this.learning = "REACT";
     this.interested = "artificial inteligence";
     this.languages = ["Javascript", "Typescript", "C++", "Python", "Lua"];
