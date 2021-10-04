@@ -16,7 +16,7 @@
 
 <p align="center">
     <img width="200" src="https://profile-counter.glitch.me/iCodezas/count.svg" alt="visitors"><br>
- <img width="200" src="https://spotify-github-profile.vercel.app/api/view?uid=21g3j36sgocawml755gf5gzta&cover_image=true&theme=novatorem" alt="spotify-github-profile">
+    <img width="200" src="https://spotify-github-profile.vercel.app/api/view?uid=21g3j36sgocawml755gf5gzta&cover_image=true&theme=novatorem" alt="spotify-github-profile">
 </p>
 
 ```javascript
