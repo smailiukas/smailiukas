@@ -38,7 +38,5 @@ class ICodezas {
 const me = new ICodezas();
 me.hello();
 ```
-<p align="center">
-    <img src="https://github.com/DollnKey/snk/raw/output/github-contribution-grid-snake.svg" alt="snek"
-</p>
+
 
