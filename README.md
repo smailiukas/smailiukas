@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Codezas's profile!
+  Welcome to C0DEZAS's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -14,7 +14,7 @@ class C0DEZAS {
   constructor() {
     this.name = "Dom";
     this.age = 17;
-    this.projects = [];
+    this.projects = ["Tsuko"];
     this.learning = "REACT";
     this.interested = "artificial inteligence";
     this.languages = ["Javascript", "Typescript"];
