@@ -10,7 +10,7 @@
 
 
 ```javascript
-class ICodezas {
+class C0DEZAS {
   constructor() {
     this.name = "Dom";
     this.age = 17;
@@ -25,7 +25,7 @@ class ICodezas {
 }
 }
 
-const me = new ICodezas();
+const me = new C0DEZAS();
 me.hello();
 ```
 
