@@ -13,10 +13,9 @@
 class C0DEZAS {
   constructor() {
     this.name = "Dom";
-    this.age = 17;
-    this.projects = ["Tsuko"];
+    this.age = 18;
+    this.projects = [];
     this.learning = "REACT";
-    this.interested = "artificial inteligence";
     this.languages = ["Javascript", "Typescript"];
     this.databases = ["MongoDB", "MariaDB"];
   }
@@ -28,18 +27,3 @@ class C0DEZAS {
 const me = new C0DEZAS();
 me.hello();
 ```
-
-<h2 align="center">⚡  My Personal github statistics ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=C0DEZAS&theme=jolly&border=61dafb&hide_border=true" alt="C0DEZAS" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=C0DEZAS&show_icons=true&theme=jolly&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br>
-</p>
-</p>
