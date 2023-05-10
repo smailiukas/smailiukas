@@ -6,11 +6,11 @@ class smailiukas {
     this.age = 19;
     this.languages = [".js", ".ts", ".py"]
   }
- totally_a_not_complicated_function_name() {
+ totally_not_a_complicated_function_name() {
  console.log('Who you and i hope you find some of my shit useful in someway.')
 }
 }
 
 const me = new smailiukas();
-me.totally_a_not_complicated_function_name();
+me.totally_not_a_complicated_function_name();
 ```
