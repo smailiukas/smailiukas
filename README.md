@@ -3,7 +3,7 @@
 class smailiukas {
   constructor() {
     this.name = "Domantas";
-    this.age = 20;
+    this.age = 21;
     this.lookingToWork = true;
     this.languages = [".js", ".ts", ".py"];
   }
